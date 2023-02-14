@@ -5,7 +5,7 @@ namespace LogicalPro{
     class Program {
 
         public static void Main(string[] args){
-            Fib.Displayfib();
+            PrimeNumer.primeNumer(2);
         }
 
     }
